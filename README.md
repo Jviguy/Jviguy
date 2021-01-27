@@ -6,4 +6,4 @@ I mainly use discord to show off my projects that I've used for learning or thin
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Jviguy&count_private=true&show_icons=true$theme=dracula)
 <br >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy)](#)

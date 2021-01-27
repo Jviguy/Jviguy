@@ -5,4 +5,5 @@ My interests are mainly in discord api usage and minecraft related projects. I l
 I mainly use discord to show off my projects that I've used for learning or things that help others / solve a problem. Or I just believe are cool and deserve to be seen (Doesn't happen to often). <br>
 ## Stats
 ![My stats](https://github-readme-stats.vercel.app/api?username=Jviguy&count_private=true&show_icons=true$theme=dracula)
+<br >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy)]

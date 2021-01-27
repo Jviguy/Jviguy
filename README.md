@@ -4,6 +4,6 @@ I am a young software developer / engineer (Idk what to call myself as of now lm
 My interests are mainly in discord api usage and minecraft related projects. I like to help others code and am a support member at WitherHosting. <br >
 I mainly use discord to show off my projects that I've used for learning or things that help others / solve a problem. Or I just believe are cool and deserve to be seen (Doesn't happen to often). <br>
 ## Stats
-![My stats](https://github-readme-stats.vercel.app/api?username=Jviguy&count_private=true&show_icons=true$theme=dracula)
+![My stats](https://github-readme-stats.vercel.app/api?username=Jviguy&count_private=true&show_icons=true&theme=dracula)
 <br >
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy)](#)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy&theme=dracula&langs_count=10)](#)

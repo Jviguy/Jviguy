@@ -8,5 +8,6 @@ I mainly use discord to show off my projects that I've used for learning or thin
 <br >
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jviguy&theme=dracula&langs_count=10)](#)
 <br >
-Just installed may not be accurate...
 [![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Jviguy)](#)
+<br >
+Just installed may not be accurate...

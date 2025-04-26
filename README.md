@@ -1,5 +1,5 @@
 # Jviguy
-I'm a professional developer working in php, C# and javascript. I mainly do game development in Unity.
+I'm a professional developer working in idek whatever you want man. I also did game development in Unity for a good bit.
 
 ## Support Me
 https://www.buymeacoffee.com/jviguy
